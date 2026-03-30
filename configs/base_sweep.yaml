@@ -1,0 +1,5 @@
+base_config: base.yaml
+
+sweep:
+  prey_parameters.T_A: [0.1, 1.0, 10.0, 20.0, 30.0, 40.0]
+  abp_model.rc:  [2.0, 3.0, 4.0, 5.0]

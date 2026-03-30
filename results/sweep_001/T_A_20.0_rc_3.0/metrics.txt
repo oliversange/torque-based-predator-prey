@@ -1,0 +1,1 @@
+av_particles_in_prox: 4.692968006348234, av_particle_distance: 36.85001044792258

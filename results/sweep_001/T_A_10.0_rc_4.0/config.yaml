@@ -1,0 +1,23 @@
+simulation:
+  dt: 1.0e-05
+  number_of_steps: 3000000
+system:
+  number_of_particles: 100
+  boundary_condition: true
+  L: 175
+abp_model:
+  D: 0.333
+  D_rot: 1.0
+  mu: 1.0
+  mu_r: 3.0
+  rc: 4.0
+prey_parameters:
+  setup: grid
+  T_A: 10.0
+  T_0: 3.0
+  v0: 26.666666
+predator_parameters:
+  predator_introduction_step: 100000
+  v_pred: 40.0
+  T_0_predator: 10
+  R_pred_prey: 10
