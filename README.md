@@ -97,4 +97,4 @@ python -m scripts.visualize_sweep_results --sweep_name "sweep_001"
 
 The full thesis is available here:
 
-📄 [Download PDF](docs/bechelor_thesis.pdf)
+📄 [Download PDF](docs/batchelor_thesis.pdf)
